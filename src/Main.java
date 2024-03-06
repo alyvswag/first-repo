@@ -6,5 +6,6 @@ public class Main {
         System.out.println("Salam kisi");
         System.out.println("hey" );
         System.out.println("Salam ey ehali");
+        System.out.println("salam aee" );
     }
 }
